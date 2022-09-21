@@ -4,6 +4,6 @@
 
 >This is a personal project I did to showcase my MS-excel skills
 
-* The purpose of te EDA is to use historical data of the shop to draw valuable insights concerning the brands dealt with to help the management make informed decisions.
+* The purpose of the EDA is to use historical data of the shop to draw valuable insights concerning the brands dealt with to help the management make informed decisions.
 * It included pie charts, bar charts and line graphs created with excel.
 * I created an interactive dashoard to make it easily understood by stakeholders
