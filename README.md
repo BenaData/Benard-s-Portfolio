@@ -10,3 +10,10 @@
 * The purpose of the EDA is to use historical data of the shop to draw valuable insights concerning the brands dealt with to help the management make informed decisions.
 * It included pie charts, bar charts and line graphs created with excel.
 * I created an interactive dashoard to make it easily understood by stakeholders
+
+
+# [Project 2: Products suppliers data analytics with MySQL](https://benadata.medium.com/products-suppliers-data-analytics-with-mysql-dc9488c50b8)
+>This is a simple project to help me practice MySQL queries for creating tables and retrieving and aggregating data.
+
+* I wanted to use SQL to create products table and load data into MySQL using MySQL workbench. After loading the data, I wanted to run basic SQL querries to get insights from the data.
+* The SQL queries used are: CREATE TABLE, SELECT, FROM, LIMIT, GROUP BY, ORDER BY, WHERE, COUNT, DISTINCT, DESC, and AND.
