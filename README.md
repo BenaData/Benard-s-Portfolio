@@ -22,4 +22,5 @@
 > This is an exploratory data analysis project for drawing useful insights from income census dataset.
 
 * I conducted simple data cleaning techniques to ensure that the data was complete.
+
 *The goal of this project was to continue following the essential steps of data analysis: Ask questions, prepare data, process data, analyze data to answer questions, and then share insights.
