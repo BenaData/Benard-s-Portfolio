@@ -17,3 +17,8 @@
 
 * I wanted to use SQL to create products table and load data into MySQL using MySQL workbench. After loading the data, I wanted to run basic SQL querries to get insights from the data.
 * The SQL queries used are: CREATE TABLE, SELECT, FROM, LIMIT, GROUP BY, ORDER BY, WHERE, COUNT, DISTINCT, DESC, and AND.
+
+# [Project 3: Income Census Data Analysis With Python](https://github.com/BenaData/Data-Analysis/blob/master/income_census_data_analysis.ipynb)
+> This is an exploratory data analysis project for drawing useful insights from income census dataset.
+
+* I conducted simple data cleaning techniques to ensure that the data was complete.
