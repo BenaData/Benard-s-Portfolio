@@ -1,4 +1,4 @@
-# Benards_Data_Analytics_Portfolio
+# Benard's Data Analytics Portfolio
 
 # About Me
 > I am a highly motivated, proactive, and competent entry-level data analyst interested in business data. I am a fast learner who constantly seeks ways to stay ahead in the profession and stay up to date with the latest technology used to solve modern problems with data.
